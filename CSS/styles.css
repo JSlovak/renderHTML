@@ -1,0 +1,120 @@
+
+
+/* Whole website */
+body { 
+	align-self: center;
+	background-color: snow >
+	
+	
+ }
+
+	h1 { 
+		font-family: arial;
+		}
+
+	h2 { 
+		font-family: arial; 
+		}
+
+	h3 { 
+		font-family: arial; 
+		}
+			
+	p {
+		font-family: arial;
+		font-size: 12px;		}
+
+
+div {
+	align-self: center
+    width: 80%;
+    border: 1px solid black;
+    margin: 0px; 
+    padding:10px;
+}
+
+.spacer { 
+	border: none;
+	padding: 10px;
+ }
+
+hr { 
+	width: 100%;
+	align-self: : center;
+	line-height: 10px;
+ }
+
+/* Site Header & Title  */
+
+#smallCat { 
+	align-self: center;
+ }
+
+ #siteTitle {
+ 	text-align: center; 	
+ }
+
+ /* Navigation */
+
+#navigation {
+ 	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  
+
+ }
+
+ .navButton { 
+
+  display: inline;
+  background-color: LightBlue;
+  padding: 20px;
+  color: CadetBlue;
+  text-decoration: none;
+  font-family: arial;
+  font-size: 15px; 
+  text-align: center;
+
+
+  }
+
+/* Feature Section */
+
+#slayerTitle {
+	background-color: CadetBlue;
+	border: 1px solid black;
+	border-bottom: none;
+	padding-bottom: none;
+}
+
+#slayerParagrah {
+	background-color: LightBlue;
+	border: 1px solid black;
+}
+
+#bigCat { 
+
+	float: right;
+	overflow: auto;
+	margin:10px;
+
+
+ }
+
+/* General Section */
+
+div.genContent { 
+
+ }
+
+ div.genContentHeader { 
+ 	border:none;
+ 	margin: none;
+ 	background-color: LightGray;
+ 	color: gray;
+
+  }
+
+  #footer { 
+  text-align: center;
+   }
