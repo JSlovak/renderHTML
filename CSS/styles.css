@@ -1,8 +1,9 @@
 
 
 /* Whole website */
+
+
 body { 
-	align-self: center;
 	background-color: snow >
 	
 	
@@ -24,9 +25,31 @@ body {
 		font-family: arial;
 		font-size: 12px;		}
 
+#header {
+	text-align:  center;
+
+}
+
+#navigation { 
+	text-align: center;
+	border: none;
+ }
+
+ .navButton { 
+	list-style-type: none;
+	text-decoration: none;
+	display: inline;
+  	background-color: LightBlue;
+  	padding: 20px;
+  	color: CadetBlue;
+  	font-family: arial;
+  	font-size: 15px; 
+  	text-align: center;
+
+  }
 
 div {
-	align-self: center
+	align-self: center;
     width: 80%;
     border: 1px solid black;
     margin: 0px; 
@@ -63,20 +86,6 @@ hr {
     overflow: hidden;  
 
  }
-
- .navButton { 
-
-  display: inline;
-  background-color: LightBlue;
-  padding: 20px;
-  color: CadetBlue;
-  text-decoration: none;
-  font-family: arial;
-  font-size: 15px; 
-  text-align: center;
-
-
-  }
 
 /* Feature Section */
 
